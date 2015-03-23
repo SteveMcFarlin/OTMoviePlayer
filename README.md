@@ -1,4 +1,4 @@
-Project 9: Movie Player
+Movie Player
 ==================================
 
 This project shows how to use Opentok SDK to stream a mov file. It does this
